@@ -6,7 +6,7 @@ const ControlledComponents = () => {
 
     const handleInputChange = (event)=>
     {
-        setInputText(event.target.value)
+         setInputText(event.target.value)
     }
 
   return (

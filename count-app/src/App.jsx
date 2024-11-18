@@ -1,5 +1,6 @@
 import ControlledComponents from "./components"
 import Counter from "./components/counter"
+import Todo from "./components/Todo"
 
 function App() {
   
@@ -10,6 +11,8 @@ function App() {
       <Counter  counter={3}/>
       <br/>
       <ControlledComponents/>
+      <br/>
+      <Todo/>
     </>
   )
 }

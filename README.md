@@ -15,3 +15,5 @@ What is Hook.
  What is controlled components?
  ->If you are dealing with form elemnts in react , then controlled components comes into the picture.
  ->The value of the form elements is stored withing component and state is going to be used
+
+ StateLifting up
